@@ -173,7 +173,7 @@ var comm_list=[{slug:"common",list:[{tag:"常用",link:[
 {name:"鲸鱼阅读",url:"http://www.jingyu.com/"}]}]},{slug:"study",list:[
 
 {tag:"题库",link:[
-{name:"光伏星球",url:"https://www.lpb612.com/gf/"},
+{name:"光伏星球",url:"https://www.lpb612.com/GF/"},
 {name:"正泰智维",url:"https://www.lpb612.com/DT/"},
 {name:"每天一个知识点",url:"https://www.lpb612.com/zs"},
 {name:"空",url:"https://www.lpb612.com/"},
